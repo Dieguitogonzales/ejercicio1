@@ -1,0 +1,7 @@
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\bin\Debug\practico 1 de progra 3.exe.config
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\bin\Debug\practico 1 de progra 3.exe
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\bin\Debug\practico 1 de progra 3.pdb
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\obj\Debug\practico 1 de progra 3.csproj.AssemblyReference.cache
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\obj\Debug\practico 1 de progra 3.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\obj\Debug\practico 1 de progra 3.exe
+C:\Users\DIEGO\source\repos\practico 1 de progra 3\practico 1 de progra 3\obj\Debug\practico 1 de progra 3.pdb
